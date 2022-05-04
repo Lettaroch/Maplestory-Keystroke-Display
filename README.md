@@ -1,5 +1,5 @@
 # Maplestory-Keystroke-Display
-Displays key presses with skill icons for OBS display or whatever streaming/recording tool you use. Doesn't really need to be for maple in particular as long as you know how to change the keys icons
+Uses the JNativeHook library to display key presses with skill icons for OBS display or whatever streaming/recording tool you use. Doesn't really need to be for maple in particular as long as you know how to change the keys icons
 ![image](https://user-images.githubusercontent.com/52558820/166712788-f0e055eb-b65b-458a-a285-b6b696f270e5.png)
 
 Edit the images inside here accordingly, please don't change the names of the pictures unless you are editting the source code (I know my code is terrible.)

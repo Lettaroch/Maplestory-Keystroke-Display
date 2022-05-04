@@ -11,7 +11,7 @@ Edit the Keystatus class file to filter out keys that are not meant to be displa
 Follow these default settings (Eclipse IDE)
 ![Settings](https://user-images.githubusercontent.com/52558820/166714784-952f80d2-f65c-4c03-afdf-0c391beb6f78.png)
 
-I used an IDE (Eclipse) to export into a JAR (Runnable) format. Remember to check for compatibility JDK version when running this, mine was 1.8.0_311.
+I used an IDE (Eclipse) to export into a JAR (Runnable) format. Remember to check for compatibility JDK version when running this, mine was 1.8.0_311(IMPORTANT).
 
 Use the exported JAR files to replace the default one in the Example Folder, and run using the bat file. (Applications like these require the administrative rights, otherwise it can't detect keystrokes while being in other windows)
 
